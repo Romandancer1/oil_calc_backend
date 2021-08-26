@@ -5,5 +5,5 @@
 favicon.ico
 index.html
 passenger_wsgi.py
-/ink/settings.py
-/ink/oilcalc/migrations
+ink/settings.py
+ink/oilcalc/migrations
