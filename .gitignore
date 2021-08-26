@@ -1,0 +1,9 @@
+.idea
+/css
+/js
+/static
+favicon.ico
+index.html
+passenger_wsgi.py
+/ink/settings.py
+/ink/oilcalc/migrations
